@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 50px;
+  padding: 0;
+  background-color: #f4f4f4; /* Light background color */
+}
+nav a {
+  color: green; /* Gold, change to any color you like */
+  text-decoration: none;
+  margin-top: 5rem;
+  padding: 0.5rem 1rem;
+}
+
+nav a:hover {
+  color: rebeccapurple; /* Optional: color when hovering */
+}
